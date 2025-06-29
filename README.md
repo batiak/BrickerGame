@@ -17,23 +17,22 @@ Destructible bricks with special abilities
 
 Win: destroy all bricks | Lose: ball falls below screen & no lives left
 
+
 **Special Brick Behaviors (10% chance each)**
 
 Extra Balls (Pucks): Spawn 2 smaller balls that don't affect lives when lost
-
 Additional Paddle: Temporary second paddle at screen center, disappears after 4 hits
-
 Turbo Mode: Main ball becomes red and 1.4x faster for 6 collisions
-
 Life Recovery: Falling heart collectible increases lives (max 4)
-
 Double Behavior: Combines two random special behaviors (max 3 per brick)
+
 
 
 **Technical Features**
 
 Strategy Pattern for brick behaviors, Decorator Pattern
 for combinations, clean OOP design with extensible architecture.
+
 
 **Balance**
 
