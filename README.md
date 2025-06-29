@@ -3,6 +3,8 @@
 
 A Java implementation of a brick-breaking game built using the DanoGameLab engine.
 
+**------**
+
 **Game Details**
 
 Bricker is a classic brick-breaking game where the player controls a paddle to keep a ball in play while
